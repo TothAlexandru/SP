@@ -16,4 +16,8 @@ public void setAlignStrategy(AlignStrategy align) {
 	// TODO Auto-generated method stub
 	a=align;
 }
+public void accept(Visitor v)
+{
+	
+}
 }

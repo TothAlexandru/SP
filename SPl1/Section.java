@@ -22,4 +22,8 @@ public void print() {
 		ele.print();
 	}
 }
+public void accept(Visitor v)
+{
+	
+}
 }

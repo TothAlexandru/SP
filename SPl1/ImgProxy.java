@@ -18,5 +18,9 @@ public class ImgProxy implements Element {
 		// TODO Auto-generated method stub
 		
 	}
+	public void accept(Visitor v)
+	{
+		
+	}
 
 }

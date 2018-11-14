@@ -12,4 +12,8 @@ public void add(Element e)
 {
 	
 }
+public void accept(Visitor v)
+{
+	
+}
 }
